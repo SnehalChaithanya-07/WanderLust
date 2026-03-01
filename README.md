@@ -1,11 +1,19 @@
-# WanderLUST
+# WanderLUST 🌍
 
-WanderLUST is a full-stack property listing web application inspired by modern rental platforms.  
-Users can register, log in, create property listings, upload images, leave reviews, and manage their own content securely.
+A full-stack rental property listing platform inspired by modern travel and accommodation marketplaces.
 
-This project demonstrates backend architecture, authentication, authorization, validation, cloud integration, and session management using Node.js and MongoDB.
+Built with Node.js, Express, MongoDB Atlas, and Cloudinary, this project demonstrates production-level backend architecture including authentication, authorization, validation, cloud storage integration, and session management.
 
 ---
+
+## 🚀 Live Demo
+
+🔗 https://wanderlust-8emq.onrender.com/listings
+
+⚠️ Note: Hosted on Render (Free Tier). Initial load may take 30–60 seconds due to cold start.
+
+---
+
 
 ## Features
 
